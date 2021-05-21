@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ece4bcff-33c6-42ec-9ac0-df0ea17e8b04",
+    "name": "USDT" ,
+    "count": 1,
+    "THB": 32.88
+  },
+  {
+    "id": "c1ebd4ad-d4dc-4978-b58b-4e565ea9a9bd",
+    "name": "BTC",
+    "count": 1,
+    "THB": 1300000
+  },
+  {
+    "id": "e0f18c2c-ddb1-4e9c-9778-4406262e4ead",
+    "name": "BUSD",
+    "count": 1,
+    "THB": 32.75
+  },
+  {
+    "id": "3e91d376-2d07-41df-915e-6e109e1e0cc2",
+    "name": "BNB",
+    "count": 1,
+    "THB" : 12992.38
+  },
+  {
+    "id": "a7ce8147-baba-459c-b23e-3b67d946125b",
+    "name": "ETH",
+    "count": 1,
+    "THB": 96411.79
+  },
+  {
+    "id": "14112ab5-7223-47cc-bc60-19145150942f",
+    "name": "DAI",
+    "count": 1,
+    "THB": 34.30
+  }
+]

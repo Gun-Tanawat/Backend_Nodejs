@@ -1,0 +1,18 @@
+{
+  "id": "adac68b3-f426-4e36-b96a-bff8ec421284",
+  "firstName": "Siripon",
+  "lastName": "Rukhai",
+  "age": 23,
+  "email": "Pop_40414@outlook.com",
+  "password": "adx@dcv@c3s4",
+  "phoneNo": "0889207270",
+  "bankAccount": "xxx-x-xxxxx-x",
+  "address": true,
+  "createdAt": "20/5/2021",
+  "coin": {
+    "id": "a7ce8147-baba-459c-b23e-3b67d946125b",
+    "name": "ETH",
+    "count": 100
+  },
+  "price": 100000
+}

@@ -1,0 +1,18 @@
+{
+  "id": "e2d3b87e-a985-4772-baa6-fb26e5a4fb70",
+  "firstName": "Tanawat",
+  "lastName": "Yangyuen",
+  "age": 23,
+  "email": "tanwat1307@gmail.com",
+  "password": "adv@c3s4",
+  "phoneNo": "0917262360",
+  "bankAccount": "xxx-x-xxxxx-x",
+  "address": true,
+  "createdAt": "20/5/2021",
+  "coin": {
+    "id": "c1ebd4ad-d4dc-4978-b58b-4e565ea9a9bd",
+    "name": "BTC",
+    "count": 20
+  },
+  "price": 10000
+}
