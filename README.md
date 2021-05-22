@@ -16,5 +16,3 @@
 7. Order buy at http://localhost:3000/order/:id , id-> user for buy and { "id" : coin_id , "price" : 20 }
 8. get transfer buyer at http://localhost:3000/transfer_Buyer
 9. get transfer seller at http://localhost:3000/transfer_Seller
-
-!ทำบันทึกการโอนเงิน และ แลกเปลี่ยนยังไม่เสร็จครับผม
