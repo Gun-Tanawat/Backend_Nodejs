@@ -1,9 +1,7 @@
 #RUN Project
 
 1. install - npm i
-2. install - npm i --save-dev nodemon
-3. install - npx express-generator
-4. npm start
+2. npm start
 
 #Project tutorial
 
